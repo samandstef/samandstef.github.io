@@ -1,13 +1,13 @@
 # Welcome to Sam and Stef's website
-- [Hiking](https://shmuelic.github.io/hiking)
-- [Recipes and food pics](https://shmuelic.github.io/recipes)
+- [Hiking](https://samandstef.github.io/hiking)
+- [Recipes and food pics](https://samandstef.github.io/recipes)
 - Gardening updates
 - Schemes
 - Travel pics + map
 - Parody songs
 - Playlist
-- [Art](https://shmuelic.github.io/art)
+- [Art](https://samandstef.github.io/art)
 
-https://shmuelic.github.io
+https://samandstef.github.io
 
 
