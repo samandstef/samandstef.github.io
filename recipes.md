@@ -5,6 +5,7 @@ permalink: /recipes
 ---
 
 # Recipes
-- [Bread](https://shmuelic.github.io/recipes/bread)
+- [Bread](https://samandstef.github.io/recipes/bread)
 - Yogurt
 - Stirfry
+- [Ribs](https://samandstef.github.io/recipes/ribs)
