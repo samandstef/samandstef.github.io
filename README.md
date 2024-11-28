@@ -3,7 +3,7 @@
 - [Recipes and food pics](https://samandstef.github.io/recipes)
 - Gardening updates
 - Schemes
-- Travel pics + map
+- [Travel map](https://samandstef.github.io/test_turkey4.html)
 - Parody songs
 - Playlist
 - [Art](https://samandstef.github.io/art)
